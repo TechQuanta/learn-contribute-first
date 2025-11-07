@@ -1,9 +1,3 @@
-# 🌌 Community Wall  
-
-✨ *Your first step into open source starts here – make your first contribution and join our wall of legends!* ✨  
-
----
-
 ## 🌑 Our Community Wall  
 
 <div align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
@@ -13,6 +7,12 @@
 </a>
 
 </div>  
+
+✨ *Your first step into open source starts here – make your first contribution and join our wall of legends!* ✨  
+
+---
+
+
 
 ---
 
