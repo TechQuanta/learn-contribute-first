@@ -10,11 +10,7 @@
 
 ✨ *Your first step into open source starts here – make your first contribution and join our wall of legends!* ✨  
 
----
 
-
-
----
 
 ## 🚀 How to Join the Community  
 
